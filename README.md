@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcel 👋
 
-I'm a senior software engineer at [**SumUp**](https://sumup.com). I previously worked at [**Mercedes-Benz.io**](https://mercedes-benz.io), [**Zenjob**](https://www.zenjob.de), [**Vectornator**](https://www.vectornator.io), and [**Ulysses**](https://ulysses.app). 
+I'm a senior software engineer at [**SumUp**](https://sumup.com) and responsible for our mobile design system, [CircuitUI](https://circuit.sumup.com/?path=/docs/introduction-welcome--docs). I previously worked at [**Mercedes-Benz.io**](https://mercedes-benz.io), [**Zenjob**](https://www.zenjob.de), [**Vectornator**](https://www.vectornator.io), and [**Ulysses**](https://ulysses.app). 
 
 I am passionate about **automation**, **testing**, **open source**, **tooling**, **privacy**, and **reusable code**. Want to talk about any of these things?
 
